@@ -1,4 +1,3 @@
 # BrewSQL
-SQL Server Always-On Brewmaster Template
-<br>
-1)Create VM 
+
+Brewmaster Template - SQL Server Always-On 
